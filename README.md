@@ -23,6 +23,6 @@ pip install pygame
 
 # Run the game :
 
-python3 rogue.py
+python3 tetris.py
 
 ===============================================================
